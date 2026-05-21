@@ -1,4 +1,6 @@
-## Hi there 👋
+## About me
+Hi, my name is Guilherme, but most well know as Darwin, im a 18 years old student that has just started to enter the realm of coding.
+As of now, im in the dwelling and gruelling journey of mastering JavaScript, personally, I like very much to learn and im willing to grasp every piece of advice as I possible can, they said I should put my background here, so, I became heavily interested to study code as a whole mostly beacuse of my uncle, that works on some multinationals companys, where i can see, clear as day, the amount of distress and as a compensation, the deserved money he gets in return, thats all about me, what about you?
 
 <!--
 **DrwGuikkz/DrwGuikkz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +15,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
